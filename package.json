@@ -1,0 +1,11 @@
+{
+  "name": "phone-parser",
+  "description": "Parser for international phone numbers",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Gilshallem/phoneparser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndoejdg/phoneparser.git"
+  }
+}
